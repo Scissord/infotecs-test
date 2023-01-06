@@ -1,4 +1,2 @@
 # infotecs-test
-#Test task for infotecs
-#GitHub Pages: 
-#Thank you for your attention
+GitHub Pages: https://scissord.github.io/infotecs-test/
